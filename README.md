@@ -21,15 +21,15 @@
 
 ## :zap: GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=monicaparroyo&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/monicaparroyo/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=monicaparroyo&count_private=true&show_icons=true&theme=tokyonight)]
 
 ## :zap: Top Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monicaparroyo&hide=css,scss&layout=compact&theme=tokyonight)](https://github.com/monicaparroyo/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monicaparroyo&hide=css,scss&layout=compact&theme=tokyonight)]
 
 ## :zap: Week Stats
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=monicaparroyo&layout=compact)](https://github.com/monicaparroyo/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=monicaparroyo&layout=compact)]
 
 [website]: https://monicaparroyo.github.io/
 [twitter]: https://twitter.com/MonicaPArroyo
