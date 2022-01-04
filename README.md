@@ -29,7 +29,7 @@
 
 ## :zap: Week Stats
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=monicaparroyo&layout=compact)]
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=monicaparroyo&layout=compact)
 
 [website]: https://monicaparroyo.github.io/
 [twitter]: https://twitter.com/MonicaPArroyo
