@@ -26,6 +26,10 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=monicaparroyo&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/monicaparroyo/github-readme-stats)
 
+## :zap: Top Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monicaparroyo&hide=css,scss&layout=compact)](https://github.com/monicaparroyo/github-readme-stats)
+
 [website]: https://monicaparroyo.github.io/
 [twitter]: https://twitter.com/MonicaPArroyo
 [youtube]: https://www.youtube.com/channel/UCMhkX7dVobqsVXptSj4ELUw
