@@ -1,7 +1,4 @@
-### Hi there, I'm Mónica P. Arroyo! 👋 
-
-![Website](https://img.shields.io/website?color=ABA0F2&label=monicaparroyo.github.io&style=for-the-badge&url=https%3A%2F%2Fmonicaparroyo.github.io%2F)
-![Twitter Follow](https://img.shields.io/twitter/follow/monicaparroyo?color=1DA1F2&logo=twitter&style=for-the-badge)
+# Hi there, I'm Mónica P. Arroyo! 👋 
 
 ## I'm a computer engineer, a teacher and an astronomy lover!!
 
