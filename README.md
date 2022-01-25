@@ -1,4 +1,4 @@
-# Hi there, I'm Mónica P. Arroyo! 👋 
+# Hi there, I'm Mónica P. Arroyo! 👋 ![](https://komarev.com/ghpvc/?username=monicaparroyo)
 
 ## I'm a computer engineer, a teacher and an astronomy lover!!
 
