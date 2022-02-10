@@ -1,6 +1,6 @@
 # Hi there, I'm Mónica P. Arroyo! 👋 ![](https://komarev.com/ghpvc/?username=monicaparroyo&color=grey)
 
-## I'm a computer engineer, a teacher and an astronomy lover!!
+## I studied computer engineer. I'm a teacher and an astronomy lover!!
 
 - 🌱 I’m currently learning PHP, Blockchain and Unity
 - 🥅 2022 Goals: Launch my first Videogame
