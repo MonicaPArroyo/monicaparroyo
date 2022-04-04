@@ -2,7 +2,7 @@
 
 ## I studied computer engineer. I'm a teacher and an astronomy lover!!
 
-- 🌱 I’m currently learning PHP, Blockchain and Unity
+- 🌱 I’m currently learning PHP, AWS and Unity
 - 🥅 2022 Goals: Launch my first Videogame
 - ⚡ Fun fact: I don't really play many videogames, ups
 
