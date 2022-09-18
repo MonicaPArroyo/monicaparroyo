@@ -25,7 +25,7 @@
 
 ## :zap: Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monicaparroyo&hide=css,scss,assemble&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monicaparroyo&hide=css,scss,assembly&layout=compact&theme=tokyonight)
 
 ## :zap: Week Stats
 
