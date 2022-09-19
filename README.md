@@ -1,4 +1,5 @@
-# Hi there, I'm Mónica P. Arroyo! 👋 ![](https://komarev.com/ghpvc/?username=monicaparroyo&color=grey)
+# Hi there, I'm Mónica P. Arroyo! 👋 
+[![wakatime](https://wakatime.com/badge/user/2d39a48a-df06-4d84-ab4f-cc8597a372d2.svg?style=for-the-badge)](https://wakatime.com/@2d39a48a-df06-4d84-ab4f-cc8597a372d2)
 
 ## I studied computer engineer. Love teaching technology. Astronomy lover.
 
