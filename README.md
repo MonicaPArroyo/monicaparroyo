@@ -9,11 +9,13 @@
 
 ### Connect with me:
 
-[<img align="left" alt="webpage" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="monicaparroyo | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="monicaparroyo | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="monicaparroyo | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="monicaparroyo | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="monicaparroyo | Webpage" width="32px" src="https://cdn-icons-png.flaticon.com/512/408/408168.png" />][website]
+[<img align="left" alt="monicaparroyo | Twitter" src="https://monicaparroyo.github.io/images/Twitter.png" />][twitter]
+[<img align="left" alt="monicaparroyo | LinkedIn" src="https://monicaparroyo.github.io/images/Linkedin.png" />][linkedin]
+[<img align="left" alt="monicaparroyo | Instagram" src="https://monicaparroyo.github.io/images/Instagram.png" />][instagram]
+[<img align="left" alt="monicaparroyo | Twitter" src="https://monicaparroyo.github.io/images/Twitter.png" />][twitter]
+[<img align="left" alt="monicaparroyo | Itchio" src="https://monicaparroyo.github.io/images/Itch.png" />][itchio]
+[<img align="left" alt="monicaparroyo | Tinkercad" src="https://monicaparroyo.github.io/images/Tinkercad.png" />][tinkercad]
 
 <br />
 <br />
@@ -37,3 +39,5 @@
 [youtube]: https://www.youtube.com/channel/UCMhkX7dVobqsVXptSj4ELUw
 [instagram]: https://www.instagram.com/monicaparroyo/
 [linkedin]: https://www.linkedin.com/in/monicaparroyo/
+[itchio]: https://monicaparroyo.itch.io/
+[tinkercad]: https://www.tinkercad.com/users/97kCQIzEEaU?category=circuits
