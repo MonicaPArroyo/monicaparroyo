@@ -3,9 +3,8 @@
 
 ## I studied computer engineer. Love teaching technology. Astronomy lover.
 
-- 🌱 I’m currently learning PHP, AWS and Unity
-- 🥅 2022 Goals: Launch my first Videogame
-- ⚡ Fun fact: I don't really play many videogames, ups
+- 🌱 I’m currently learning Wordpress, Laravel and composer
+- 🥅 2023 Goals: Have my own webpage with a blog
 
 ### Connect with me:
 
@@ -36,7 +35,7 @@
 
 [website]: https://monicaparroyo.github.io/
 [twitter]: https://twitter.com/MonicaPArroyo
-[youtube]: https://www.youtube.com/channel/UCMhkX7dVobqsVXptSj4ELUw
+[youtube]: https://www.youtube.com/channel/@monicaparroyo
 [instagram]: https://www.instagram.com/monicaparroyo/
 [linkedin]: https://www.linkedin.com/in/monicaparroyo/
 [itchio]: https://monicaparroyo.itch.io/
