@@ -4,7 +4,7 @@
 ## I studied computer engineer. Love teaching technology. Astronomy lover.
 
 - 🌱 I’m currently learning Wordpress, Laravel and composer
-- 🥅 2023 Goals: Have my own webpage with a blog
+- 🥅 2023 Goal: Have at least 10 videos on my Youtube Channel
 
 ### Connect with me:
 
@@ -12,7 +12,7 @@
 [<img align="left" alt="monicaparroyo | Twitter" src="https://monicaparroyo.github.io/images/Twitter.png" />][twitter]
 [<img align="left" alt="monicaparroyo | LinkedIn" src="https://monicaparroyo.github.io/images/Linkedin.png" />][linkedin]
 [<img align="left" alt="monicaparroyo | Instagram" src="https://monicaparroyo.github.io/images/Instagram.png" />][instagram]
-[<img align="left" alt="monicaparroyo | Twitter" src="https://monicaparroyo.github.io/images/Twitter.png" />][twitter]
+[<img align="left" alt="monicaparroyo | Youtube" src="https://monicaparroyo.github.io/images/Youtube.png" />][Youtube]
 [<img align="left" alt="monicaparroyo | Itchio" src="https://monicaparroyo.github.io/images/Itch.png" />][itchio]
 [<img align="left" alt="monicaparroyo | Tinkercad" src="https://monicaparroyo.github.io/images/Tinkercad.png" />][tinkercad]
 
@@ -35,7 +35,7 @@
 
 [website]: https://monicaparroyo.github.io/
 [twitter]: https://twitter.com/MonicaPArroyo
-[youtube]: https://www.youtube.com/channel/@monicaparroyo
+[youtube]: https://www.youtube.com/@monicaparroyo
 [instagram]: https://www.instagram.com/monicaparroyo/
 [linkedin]: https://www.linkedin.com/in/monicaparroyo/
 [itchio]: https://monicaparroyo.itch.io/
