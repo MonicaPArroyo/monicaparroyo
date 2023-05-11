@@ -3,8 +3,7 @@
 
 ## I studied computer engineer. Love teaching technology. Astronomy lover.
 
-- 🌱 I’m currently learning Wordpress, Laravel and Nextjs
-- 🥅 2023 Goal: Have at least 10 videos on my Youtube Channel
+- 🌱 I’m currently learning Graphql, Laravel and Nextjs
 
 ### Connect with me:
 
