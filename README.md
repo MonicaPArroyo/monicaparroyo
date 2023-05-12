@@ -22,11 +22,12 @@
 
 ## :zap: GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=monicaparroyo&include_all_commits=true&count_private=true&show_icons=true&hide=stars&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-## :zap: Top Languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monicaparroyo&hide=css,scss&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <a href="https://github.com/monicaparroyo">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=monicaparroyo&include_all_commits=true&count_private=true&show_icons=true&hide=stars&theme=tokyonight"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monicaparroyo&hide=css,scss&layout=compact&theme=tokyonight"/>
+</a>
+</p>
 
 ## :zap: Week Stats
 
