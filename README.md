@@ -1,9 +1,9 @@
 # Hi there, I'm Mónica P. Arroyo! 👋 
 [![wakatime](https://wakatime.com/badge/user/2d39a48a-df06-4d84-ab4f-cc8597a372d2.svg?style=for-the-badge)](https://wakatime.com/@2d39a48a-df06-4d84-ab4f-cc8597a372d2)
 
-## I studied computer engineer. Love teaching technology. Astronomy lover.
+## Astronomy lover. Transforming lines of code into opportunities for the future 💻✨
 
-- 🌱 I’m currently learning Graphql, Laravel and Nextjs
+- 🌱 I’m currently working with Next.js, Typescript and Next UI
 
 ### Connect with me:
 
