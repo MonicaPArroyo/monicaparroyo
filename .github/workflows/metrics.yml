@@ -6,7 +6,7 @@
 #
 # Requiere dos secrets en Settings → Secrets and variables → Actions:
 #   METRICS_TOKEN   → Personal Access Token (classic) de GitHub
-#   WAKATIME_TOKEN  → API key de WakaTime (wakatime.com/settings/account)
+#   WAKATIME_TOKEN  → API key de WakaTime (wakatime.com/settings/api-key)
 
 name: Metrics
 
@@ -34,20 +34,24 @@ jobs:
           user: MonicaPArroyo
           filename: github-stats.svg
           template: classic
-          base: header, activity, community, repositories
           config_timezone: America/Mexico_City
           config_theme: dark
-          # Lenguajes más usados
+
+          # Sin "community" → se va el bloque de Community stats completo
+          base: header, activity, repositories
+
+          # Lenguajes más usados (sustituye a la tarjeta top-langs)
           plugin_languages: yes
           plugin_languages_sections: most-used
           plugin_languages_details: percentage
           plugin_languages_limit: 8
           plugin_languages_ignored: css, scss, html, blade
-          # Racha de commits, siempre queda bonita
-          plugin_habits: yes
-          plugin_habits_from: 200
-          plugin_habits_facts: no
-          plugin_habits_charts: yes
+
+          # Desactivado: estaba pintando "Unexpected error" en la tarjeta.
+          # plugin_habits: yes
+          # plugin_habits_from: 200
+          # plugin_habits_facts: no
+          # plugin_habits_charts: yes
 
       # ── 2. Stats semanales de WakaTime ────────────────────────────────
       - name: WakaTime weekly stats
@@ -62,4 +66,6 @@ jobs:
           plugin_wakatime: yes
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
           plugin_wakatime_days: 7
-          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors
+          # Sin "projects" ni "projects-graphs" → no aparece ningún
+          # nombre de proyecto, ni la línea "Working on ..."
+          plugin_wakatime_sections: time, languages, languages-graphs, editors
