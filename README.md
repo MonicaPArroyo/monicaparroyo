@@ -94,6 +94,8 @@ I write about the things I build — web dev, digital logic and teaching — ove
 
 <p align="center">
   <img src="./github-stats.svg" alt="GitHub stats" width="49%" />
+</p>
+<p align="center">
   <img src="./wakatime-week.svg" alt="WakaTime stats, last 7 days" width="49%" />
 </p>
 
